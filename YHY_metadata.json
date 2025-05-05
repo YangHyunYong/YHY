@@ -1,0 +1,10 @@
+{
+  "name": "YangHyunYong",
+  "symbol": "YHY",
+  "description": "YangHyunYong coin",
+  "extensions": {
+    "twitter" : "https://x.com/hyy_leo"
+  },
+  "tags": ["Yang", "Hyun", "Yong"],
+  "image": "https://raw.githubusercontent.com/YangHyunYong/YHY/main/logo.png"
+}
